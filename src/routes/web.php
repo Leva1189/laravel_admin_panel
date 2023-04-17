@@ -1,6 +1,9 @@
 <?php
 
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
+use Laravel\Fortify\Http\Controllers\AuthenticatedSessionController;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -16,3 +19,18 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+
+Route::get('/home', function(){
+    return view('welcome');
+});
+
+Route::group(['middleware' => ['role:admin']], function () {
+    //
+    Route::get('/test', function(){
+        return view('test');
+    });
+
+});
+
+
