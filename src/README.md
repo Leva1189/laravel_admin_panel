@@ -11,3 +11,4 @@
 - Laravel fortify
 - Laravel ui
 - Laravel Permission
+- AdminLTE (admin_panel)
