@@ -3,21 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8b2086aa-7fca-4825-9951-c01f2eb2698d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/etc/mysql/apanel/general.log" beforeDir="false" afterPath="$PROJECT_DIR$/etc/mysql/apanel/general.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/etc/mysql/apanel/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/etc/mysql/apanel/ib_logfile0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/etc/mysql/apanel/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/etc/mysql/apanel/ibdata1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/etc/mysql/apanel/ibtmp1" beforeDir="false" afterPath="$PROJECT_DIR$/etc/mysql/apanel/ibtmp1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Http/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Models/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/src/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +14,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/config/app.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/resources/views/test.blade.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/routes/web.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/app/Providers/FortifyServiceProvider.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/resources/views/auth/login.blade.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2OWE99v7iQPUiJ8tpaPDR2s0iXT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -64,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681667783847</updated>
-      <workItem from="1681667785672" duration="20626000" />
+      <workItem from="1681667785672" duration="21248000" />
     </task>
     <servers />
   </component>
