@@ -25,12 +25,13 @@ Route::get('/home', function(){
     return view('welcome');
 });
 
-Route::group(['middleware' => ['role:admin']], function () {
+Route::middleware(['role:admin'])->prefix('admin_panel')->group(function (){
     //
-    Route::get('/test', function(){
-        return view('test');
-    });
+    Route::get('/', [\App\Http\Controllers\Admin\HomeController::class, 'index']);
 
 });
+
+
+
 
 
